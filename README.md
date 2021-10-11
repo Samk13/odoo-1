@@ -1,10 +1,18 @@
+# How to start
+
+- setup your venv
+  start it by typing `source venv/bin/activate`
+- install dependencies
+  `pip install -r requirements.txt`
+- run the app
+  `python odoo-bin`
+
 [![Build Status](http://runbot.odoo.com/runbot/badge/flat/1/master.svg)](http://runbot.odoo.com/runbot)
 [![Tech Doc](http://img.shields.io/badge/master-docs-875A7B.svg?style=flat&colorA=8F8F8F)](http://www.odoo.com/documentation/master)
 [![Help](http://img.shields.io/badge/master-help-875A7B.svg?style=flat&colorA=8F8F8F)](https://www.odoo.com/forum/help-1)
 [![Nightly Builds](http://img.shields.io/badge/master-nightly-875A7B.svg?style=flat&colorA=8F8F8F)](http://nightly.odoo.com/)
 
-Odoo
-----
+## Odoo
 
 Odoo is a suite of web based open source business apps.
 
@@ -23,9 +31,7 @@ The main Odoo Apps include an <a href="https://www.odoo.com/page/crm">Open Sourc
 Odoo Apps can be used as stand-alone applications, but they also integrate seamlessly so you get
 a full-featured <a href="https://www.odoo.com">Open Source ERP</a> when you install several Apps.
 
-
-Getting started with Odoo
--------------------------
+## Getting started with Odoo
 
 For a standard installation please follow the <a href="https://www.odoo.com/documentation/14.0/administration/install.html">Setup instructions</a>
 from the documentation.
